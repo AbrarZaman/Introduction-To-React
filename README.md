@@ -27,4 +27,7 @@ Conclusion:
 This React project represents my foundational knowledge and hands-on experience in essential React concepts. By implementing reusable components, utilizing props and event handlers, leveraging React hooks, incorporating routing, and integrating APIs, I have showcased my ability to build functional and interactive web applications using React. I am eager to further enhance my skills and contribute my expertise to new and exciting projects. I am confident that my solid understanding of React and my dedication to delivering high-quality code make me a valuable asset to any development team. I look forward to discussing how my skills align with your organization's goals and contributing to your success.
 
 
-Note: I have commented out the rest of the codes. Feel free to uncomment out the rest and test out code of your choice.
+Note: I have commented out the rest of the codes. Feel free to uncomment out the rest and test out code of your choice. 
+
+To run the application run (npm start) or (sudo npm start). 
+The sudo npm start are for those who will run the application on their MacBooks which is integrated with the apple silicon chip.
